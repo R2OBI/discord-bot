@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "common-tags": "^1.8.2",
+    "discord.js": "^13.6.0",
+    "quick.db": "^9.0.2",
+    "quickdb": "^1.0.5"
+  }
+}
